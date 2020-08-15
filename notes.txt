@@ -1,0 +1,17 @@
+
+Chest X-rays Pneumonia Detection using Convolutional Neural Network
+
+Total Dataset Images: 
+Normal Patients Images = 1575(100%)
+Pneumonia Patients Images = 4265(100%)
+
+
+Training Dataset Images: 
+Normal Patients Images = 1341(85%)
+Pneumonia Patients Images = 3875(91%)
+
+
+Test Dataset Images: 
+Normal Patients Images = 234(15%)
+Pneumonia Patients Images = 390(9%)
+
